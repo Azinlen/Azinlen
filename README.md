@@ -1,3 +1,3 @@
 -  Hi, I’m @Azinlen
 -  I’m interested in mapping/coding
--  I’m currently learning html/c++
+-  I’m currently learning html/c#
